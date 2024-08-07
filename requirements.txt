@@ -1,0 +1,7 @@
+tensorflow
+ipykernel
+Pillow
+scipy
+matplotlib
+ipywidgets
+ipython
